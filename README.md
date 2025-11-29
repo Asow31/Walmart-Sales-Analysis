@@ -2,6 +2,9 @@
 
 This project looks at Walmart retail sales data to understand revenue patterns, product performance, and how different stores or categories contribute to overall sales. The goal was to explore the data, build a clean dashboard, and highlight insights that can help guide business decisions.
 
+Here is the link to the dashboard:
+https://public.tableau.com/app/profile/abdoul.sow4068/viz/WalmartWeeklySalesAnalysis_17641928120250/WalmartWeeklySalesAnalysisDashboard?publish=yes
+
 
 ## Tools Used
 - Excel / CSV for data preparation
